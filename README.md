@@ -4,7 +4,7 @@ Grading system based on score ranges
 Grading system based on score ranges
 ---
 
-##📊 Grade Breakdown 
+## 📊 Grade Breakdown 
 
 | score range| Grade|
 |------------|------|
